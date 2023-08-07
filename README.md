@@ -1,4 +1,5 @@
-# GcoreCDNIPSelector
+# GcoreCDNIPSelector [![Update IP Rangs](https://github.com/BruceWind/GcoreCDNIPSelector/actions/workflows/npm-publish-github-packages.yml/badge.svg?branch=main)](https://github.com/BruceWind/GcoreCDNIPSelector/actions/workflows/npm-publish-github-packages.yml)
+
 
 [中文](https://github.com/BruceWind/GcoreCDNIPSelector/blob/main/README_zh.md)｜[English](https://github.com/BruceWind/GcoreCDNIPSelector/blob/main/README.md)
 
